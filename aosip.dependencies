@@ -1,14 +1,12 @@
 [
   {
-    "remote":      "laos",
-    "repository":  "android_kernel_xiaomi_armani",
-    "target_path": "kernel/xiaomi/armani",
-    "branch":      "cm-14.1"
+    "repository":  "AOSiP-Devices/device_xiaomi_armani",
+    "target_path": "device/xiaomi/armani",
+    "branch":      "nougat-mr2"
   },
   {
-    "remote":      "laos",
-    "repository":  "android_hardware_cyanogen",
-    "target_path": "hardware/cyanogen",
+    "repository":  "LineageOS/android_kernel_xiaomi_armani",
+    "target_path": "kernel/xiaomi/armani",
     "branch":      "cm-14.1"
   },
   {
